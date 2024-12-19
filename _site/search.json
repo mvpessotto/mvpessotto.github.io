@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "If you have trouble visualizing the embeded CV, please click  here to download the pdf file."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mila Victório Pessotto",
+    "section": "",
+    "text": "I am currently a Ph.D. candidate in the Agronomy department at Iowa State University. Most of my research is focused on understanding the effect of cereal rye on corn yield. The goal is to understand the causes of yield drag and how to overcome them. Also,I am studying ways to create a DIY soil health manual to facilitate the soil health assessment for farmers."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Mila Victório Pessotto",
+    "section": "",
+    "text": "I am currently a Ph.D. candidate in the Agronomy department at Iowa State University. Most of my research is focused on understanding the effect of cereal rye on corn yield. The goal is to understand the causes of yield drag and how to overcome them. Also,I am studying ways to create a DIY soil health manual to facilitate the soil health assessment for farmers."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Mila Victório Pessotto",
+    "section": "Research interests",
+    "text": "Research interests\nThere are several research areas that fascinate me. A short list of those would be: soil health, cover crops, soil fertility, and sustainable production systems."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mila Victório Pessotto",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Crop Production and Physiology\n\nIowa State University\n2022 - August 2025\n\nM.Sc. in Crop, Soil, and Environmental Sciences\n\nUniversity of Arkansas\n2019 - 2022\n\nB.Sc. in Agronomy\n\nCollege of Agriculture “Luiz de Queiroz”\nUniversity of São Paulo\n2013 - 2018"
+  }
+]

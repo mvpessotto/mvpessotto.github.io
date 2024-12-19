@@ -1,0 +1,33 @@
+---
+title: "Mila Victório Pessotto"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mila-victorio-pessotto-41a621164/
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com.br/citations?user=EA2lTc4AAAAJ&hl=pt-BR
+---
+
+## About
+
+I am currently a Ph.D. candidate in the Agronomy department at Iowa State University. Most of my research is focused on understanding the effect of cereal rye on corn yield. The goal is to understand the causes of yield drag and how to overcome them. Also,I am studying ways to create a DIY soil health manual to facilitate the soil health assessment for farmers.
+
+## Research interests
+
+There are several research areas that fascinate me. A short list of those would be: soil health, cover crops, soil fertility, and sustainable production systems.
+
+## Education
+
+-   Ph.D. in Crop Production and Physiology
+    -   Iowa State University
+    -   2022 - August 2025
+-   M.Sc. in Crop, Soil, and Environmental Sciences
+    -   University of Arkansas
+    -   2019 - 2022
+-   B.Sc. in Agronomy
+    -   College of Agriculture "Luiz de Queiroz"
+    -   University of São Paulo
+    -   2013 - 2018

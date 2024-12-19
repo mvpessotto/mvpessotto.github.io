@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+<iframe src="CV_MVPessotto.pdf" title="SOME_TITLE" width="100%" height="800px">
+
+</iframe>
+
+If you have trouble visualizing the embeded CV, please click <a href="/CV_MVPessotto.pdf"> here</a> to download the pdf file.
