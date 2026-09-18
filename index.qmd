@@ -13,7 +13,12 @@ about:
 
 ## About
 
-I am currently a Postdoctoral Researcher in the Agronomy department at Iowa State University. Most of my research is focused on understanding the effect of cereal rye on corn yield. The goal is to understand the causes of yield drag and how to overcome them. Also,I am studying ways to create a DIY soil health manual to facilitate the soil health assessment for farmers.
+Agronomist with a Ph.D. and international experience in applied research focused on sustainable cropping
+systems. Experienced in designing, conducting, and analyzing field and laboratory experiments in soil science, soil
+fertility and soil health, plant nutrition, cover crops, and nitrogen management in row crops. Skilled in
+experimental design, statistical analysis, data science, technical communication, and collaborating with
+universities, public institutions, farmers, and crop consultants to translate agronomic data into practical
+recommendations.  
 
 ## Research interests
 

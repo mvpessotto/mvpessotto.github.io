@@ -1,0 +1,9 @@
+---
+title: "Resume"
+---
+
+<iframe src="MVPessotto-resume.pdf" title="SOME_TITLE" width="100%" height="800px">
+
+</iframe>
+
+If you have trouble visualizing the embeded resume, please click <a href="/MVPessotto-resume.pdf"> here</a> to download the pdf file.
